@@ -1,0 +1,24 @@
+[MgNO]YYG201014-20
+[BNAME]㈱ヨドハン群馬営業所山岸様分
+[DNAME]VGCO-5562H+VKC-2862H
+[Span]2
+[Type]S
+[Depth]62
+[High]H
+[DrawingName]VGCO-5562H VKC-2862H 2連棟
+[T0]VGCO-5562H
+[T1]VKC-2862H
+[T2]
+[T3]
+[T4]
+[T5]
+[T6]
+[T7]
+[T8]
+[T9]
+[T10]
+[T11]
+[T12]
+[T13]
+[T14]
+[T15]
